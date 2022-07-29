@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @DhaneshKumarMeghwar
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently doing my bechalor's in computer science
-- 💞️ I’m looking to work on backend and collaborate in your projets 
+- Hi, I’m @DhaneshKumar
+- I’m interested in Software Engineering.
+- I’m graduated in computer science from National University of Science and Technology (NUST) Islamabad.
+- I’m looking to work on Full-stack Development. 
+- Currently I am working on MERN stack.
+- Tech-Skills: HTML, CSS, C, C++, Java, JavaScript, SQL Databases, Firebase
+
 
 <!---
 DhaneshKumarMeghwar/DhaneshKumarMeghwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
